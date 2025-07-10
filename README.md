@@ -14,6 +14,9 @@ MedEase AI is a comprehensive, AI-powered healthcare platform designed to revolu
 ### 🎯 Mission
 To make healthcare accessible, understandable, and personalized for everyone through the power of artificial intelligence.
 
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/7164e9aa-993e-40f1-93d3-fab97208c80b" />
+
+
 ---
 
 ## 🚀 Key Features
@@ -24,7 +27,8 @@ To make healthcare accessible, understandable, and personalized for everyone thr
 - **Smart Recommendations**: Receive personalized care suggestions
 - **Accuracy**: 99% diagnostic accuracy powered by advanced AI models
 
-![AI Symptom Checker](https://via.placeholder.com/800x400/10B981/ffffff?text=AI+Symptom+Checker+Interface)
+<img width="1920" height="900" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/1527f6a2-bb3c-46a8-b017-58f229fe36a2" />
+
 
 ### 💬 Multilingual Health Chat
 - **Language Support**: Chat in Hindi and English
@@ -32,7 +36,7 @@ To make healthcare accessible, understandable, and personalized for everyone thr
 - **Context-Aware**: Remembers your health history for better recommendations
 - **Natural Conversations**: Intuitive chat interface with human-like responses
 
-![Multilingual Chat](https://via.placeholder.com/800x400/3B82F6/ffffff?text=Multilingual+Chat+Interface)
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/ab84670c-9c29-41e2-98de-3745e827f5a6" />
 
 ### 📊 Comprehensive Health Dashboard
 - **Vital Tracking**: Monitor blood pressure, blood sugar, weight, and more
@@ -40,7 +44,8 @@ To make healthcare accessible, understandable, and personalized for everyone thr
 - **Health Timeline**: Visual representation of your health journey
 - **Personalized Insights**: AI-generated recommendations based on your data
 
-![Health Dashboard](https://via.placeholder.com/800x400/059669/ffffff?text=Health+Dashboard+Overview)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a81c2bea-07c9-4b4f-91f8-ed7e58752269" />
+
 
 ### 👨‍⚕️ Smart Doctor Matching
 - **AI-Powered Recommendations**: Find the perfect doctor based on your needs
@@ -48,7 +53,8 @@ To make healthcare accessible, understandable, and personalized for everyone thr
 - **Location-Based**: Find nearby healthcare providers
 - **Ratings & Reviews**: Make informed decisions with peer feedback
 
-![Doctor Matching](https://via.placeholder.com/800x400/7C3AED/ffffff?text=Doctor+Matching+System)
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/451b0aec-4d72-455d-aa52-4363a48b4526" />
+
 
 ### 📋 Intelligent Report Analysis
 - **Lab Report Upload**: Upload medical reports in various formats
@@ -56,7 +62,8 @@ To make healthcare accessible, understandable, and personalized for everyone thr
 - **Trend Analysis**: Track changes in your health metrics over time
 - **Actionable Insights**: Receive specific recommendations based on your reports
 
-![Report Analysis](https://via.placeholder.com/800x400/DC2626/ffffff?text=Medical+Report+Analysis)
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/e672ae2a-1d90-4ec7-aa62-c74eaca73dbb" />
+
 
 ### 🚨 Emergency Care Features
 - **QR Code Integration**: Instant access to critical medical information
@@ -64,7 +71,7 @@ To make healthcare accessible, understandable, and personalized for everyone thr
 - **Medical History**: Immediate availability of crucial health data
 - **Location Services**: Find nearest emergency facilities
 
-![Emergency Care](https://via.placeholder.com/800x400/EA580C/ffffff?text=Emergency+Care+QR+Code)
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/35e7a9e5-138f-4450-bfc2-d8fc27b51bc3" />
 
 ### 📱 Additional Features
 
